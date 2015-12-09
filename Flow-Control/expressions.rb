@@ -1,7 +1,7 @@
 (32 * 4) >= 129 
 #               => false
 
-fasle != !true
+false != !true
 #               => false
 
 true == 4
